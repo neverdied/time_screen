@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\time_screen\time_screen\bin\Debug\time_screen.exe.config
+C:\Users\Administrator\source\repos\time_screen\time_screen\bin\Debug\time_screen.exe
+C:\Users\Administrator\source\repos\time_screen\time_screen\bin\Debug\time_screen.pdb
+C:\Users\Administrator\source\repos\time_screen\time_screen\obj\Debug\time_screen.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\time_screen\time_screen\obj\Debug\time_screen.Form1.resources
+C:\Users\Administrator\source\repos\time_screen\time_screen\obj\Debug\time_screen.Properties.Resources.resources
+C:\Users\Administrator\source\repos\time_screen\time_screen\obj\Debug\time_screen.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\time_screen\time_screen\obj\Debug\time_screen.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\time_screen\time_screen\obj\Debug\time_screen.exe
+C:\Users\Administrator\source\repos\time_screen\time_screen\obj\Debug\time_screen.pdb
